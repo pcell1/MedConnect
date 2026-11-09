@@ -1,4 +1,3 @@
-## Installation
 # # Description
 Plateforme Web de gestion des disponibilités des médecins et rendez vous Médicaux
 # # Fonctionnalites principales
